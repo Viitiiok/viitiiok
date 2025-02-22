@@ -1,8 +1,12 @@
 # Hi there 👋
 
-![Avatar](images/avatar_2.JPG)
+![Avatar](images/Donald_Duck.svg)
 
-Programist Victor
+## Descriere
+Programist Victor, 
+
+
+student ínflàcáràt de la USM.
 
 ## Domenii de interes
 - IT
@@ -11,12 +15,14 @@ Programist Victor
 
 ### Cunoscute
 - JavaScript
+- Pascal
 
 ### In proces de invatare 
 - JavaScript
 
 ### Doresc sa invat
 - JavaScript
+- Lisp
 
 ## Contact 
 📧 Email: victor76167@gmail.com  
